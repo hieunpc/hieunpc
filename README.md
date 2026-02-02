@@ -59,7 +59,33 @@ const hieu = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
 
 ---
+## 🚀 FEATURED PROJECTS
+<p align="center">
+  <a href="https://github.com/hieunpc/G-Scores-Analysis">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hieunpc&repo=G-Scores-Analysis&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&description_lines_count=2"/>
+  </a>
+  <a href="https://github.com/hieunpc/Reddit-ETL-Pipeline">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hieunpc&repo=Reddit-ETL-Pipeline&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&description_lines_count=2" />
+  </a>
 
+<a href="https://github.com/hieunpc/url-shortener-platform">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hieunpc&repo=url-shortener-platform&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&description_lines_count=2" />
+  </a>
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hieunpc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" height="170" alt="Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=hieunpc&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7" height="170" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hieunpc&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" height="170" alt="Languages" />
+</p>
+
+---
 
 <div align="center">
 
