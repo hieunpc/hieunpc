@@ -6,10 +6,6 @@
 
 ### ⚡ _"Leveling up one commit at a time."_ ⚡
 
-```
-▂▃▄▅▆▇█ NEON MODE ACTIVATED █▇▆▅▄▃▂
-```
-
 </div>
 
 ---
