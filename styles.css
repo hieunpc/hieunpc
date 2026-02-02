@@ -43,7 +43,7 @@ body {
     align-items: center;
     justify-content: center;
     z-index: 9999;
-    animation: introFadeOut 0.5s ease-out 3s forwards;
+    animation: introFadeOut 0.5s ease-out 3.5s forwards;
 }
 
 @keyframes introFadeOut {
@@ -52,6 +52,8 @@ body {
         visibility: hidden;
     }
 }
+
+/* Note: Animation delay matches JavaScript timing (3500ms) */
 
 .neon-container {
     text-align: center;

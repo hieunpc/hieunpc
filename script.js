@@ -96,7 +96,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Add parallax effect to hero section
-    let lastScrollY = window.scrollY;
     window.addEventListener('scroll', () => {
         const scrollY = window.scrollY;
         const hero = document.querySelector('.hero');
@@ -105,8 +104,6 @@ document.addEventListener('DOMContentLoaded', function() {
             const parallaxSpeed = 0.5;
             hero.style.transform = `translateY(${scrollY * parallaxSpeed}px)`;
         }
-
-        lastScrollY = scrollY;
     });
 
     // Add hover effect to skill items
@@ -204,10 +201,19 @@ document.addEventListener('DOMContentLoaded', function() {
     const gradientTexts = document.querySelectorAll('.gradient-text');
     gradientTexts.forEach(text => {
         let hue = 0;
-        setInterval(() => {
-            hue = (hue + 1) % 360;
-            text.style.filter = `hue-rotate(${hue}deg)`;
-        }, 50);
+        let lastTime = performance.now();
+        
+        function animateGradient(currentTime) {
+            const deltaTime = currentTime - lastTime;
+            if (deltaTime >= 50) {
+                hue = (hue + 1) % 360;
+                text.style.filter = `hue-rotate(${hue}deg)`;
+                lastTime = currentTime;
+            }
+            requestAnimationFrame(animateGradient);
+        }
+        
+        requestAnimationFrame(animateGradient);
     });
 
     // Add particle effect to hero section
@@ -262,13 +268,13 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add typing indicator to hero section
     const heroSubtitle = document.querySelector('.hero-subtitle');
     if (heroSubtitle) {
-        const cursor = document.createElement('span');
-        cursor.textContent = '|';
-        cursor.style.cssText = `
+        const typingCursor = document.createElement('span');
+        typingCursor.textContent = '|';
+        typingCursor.style.cssText = `
             color: var(--primary-color);
             animation: blink 1s infinite;
         `;
-        heroSubtitle.appendChild(cursor);
+        heroSubtitle.appendChild(typingCursor);
 
         const blinkStyle = document.createElement('style');
         blinkStyle.textContent = `
