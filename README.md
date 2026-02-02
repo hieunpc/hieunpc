@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 HIẾU NGUYEN 👾
+# 👾 NGUYỄN TRUNG HIẾU 👾
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;CS+Student;Backend+Engineer;Algorithm+Grinder)](https://git.io/typing-svg)
 
@@ -66,64 +66,17 @@ const hieu = {
 
 ## 📊 GITHUB STATS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hieunpc" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieunpc&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hieunpc&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hieunpc&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieunpc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9)
-
-</div>
-
----
-
-## 🎯 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 EasySplit
-Multiplayer-style expense tracker inspired by Splitwise. Split bills with friends like a pro gamer coordinating raids.
-
-**Tech**: React, Node.js, MongoDB
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend API System
-Scalable RESTful API with clean architecture. Built for performance and maintainability.
-
-**Tech**: NestJS, TypeScript, MySQL
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎮 DEVELOPER LEVEL
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                    LEVEL 21 DEVELOPER                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  XP: [████████████████████░░░░░░░░] 65% → Level 22     ║
-║                                                          ║
-║  CURRENTLY GRINDING:                                     ║
-║  ▸ Competitive Programming & Algorithms                 ║
-║  ▸ System Design & Architecture                         ║
-║  ▸ Backend Performance Optimization                     ║
-║                                                          ║
-║  ACHIEVEMENTS UNLOCKED:                                  ║
-║  🏆 Algorithm Apprentice                                ║
-║  🏆 Fullstack Foundation                                ║
-║  🏆 Code Quality Guardian                               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieunpc&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&cache_seconds=86400" />
+</p>
 
 ---
 
@@ -140,13 +93,6 @@ Scalable RESTful API with clean architecture. Built for performance and maintain
 ---
 
 <div align="center">
-
-```
-╔════════════════════════════════════════════════════╗
-║  "Code is poetry written in logic."               ║
-║                                         - Hiếu    ║
-╚════════════════════════════════════════════════════╝
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hieunpc&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
 
