@@ -2,7 +2,7 @@
 
 # 👾 NGUYỄN TRUNG HIẾU 👾
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;CS+Student;Backend+Engineer;Algorithm+Grinder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;CS+Student;Backend+Engineer)](https://git.io/typing-svg)
 
 ### ⚡ _"Leveling up one commit at a time."_ ⚡
 
@@ -64,33 +64,6 @@ const hieu = {
 
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieunpc" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hieunpc&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieunpc&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&cache_seconds=86400" />
-</p>
-
----
-
-## 📬 CONNECT WITH ME
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-hieunpc-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/hieunpc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/hieunpc)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:hieunpc@example.com)
-
-</div>
-
----
 
 <div align="center">
 
