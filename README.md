@@ -87,6 +87,16 @@ const hieu = {
 
 ---
 
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/hieunpc/hieunpc/output/snake.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hieunpc&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
