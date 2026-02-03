@@ -87,11 +87,11 @@ const hieu = {
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/hieunpc/hieunpc/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hieunpc/hieunpc/output/snake-dark.svg)
 
 </div>
 
