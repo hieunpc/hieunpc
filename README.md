@@ -1,97 +1,80 @@
 <div align="center">
 
-# 👾 NGUYỄN TRUNG HIẾU 👾
+# Nguyễn Trung Hiếu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;CS+Student;Backend+Engineer)](https://git.io/typing-svg)
-
-### ⚡ _"Leveling up one commit at a time."_ ⚡
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Computer+Science+Student;Backend+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🎮 ABOUT ME
 
 ```typescript
-const hieu = {
-    education: "Computer Science Student",
-    role: "Fullstack / Software Engineer Intern",
-    specialty: ["Algorithms", "Backend Development", "System Design"],
-    mindset: "Gamer logic → Grind. Optimize. Level Up.",
-    current_quest: "Building scalable systems & mastering competitive programming"
+// hieu.ts
+interface Developer {
+  name: string;
+  role: string[];
+  education: string;
+  focus: string[];
+  currentlyLearning: string;
 }
+
+const hieu: Developer = {
+  name: "Hiếu Nguyễn",
+  role: ["Fullstack Developer", "Software Engineer"],
+  education: "Computer Science Student",
+  focus: ["Backend Architecture", "System Design", "Algorithms"],
+  currentlyLearning: "Building scalable distributed systems"
+};
+
+export default hieu;
 ```
 
-- 💻 Computer Science student with a passion for problem-solving
-- ⚙️ Fullstack developer specializing in backend architecture
-- 🧠 Strong foundation in algorithms and data structures
-- 🎯 Gamer mindset: always grinding to optimize and improve
-- 🚀 Currently leveling up in system design and backend performance
+---
+
+## Technical Skills
+
+<details open>
+<summary><b>Languages & Technologies</b></summary>
+<br>
+
+**Core Languages**  
+`C++` `JavaScript` `TypeScript` `Python`
+
+**Frontend**  
+`React` `HTML5` `CSS3` `TailwindCSS`
+
+**Backend**  
+`Node.js` `NestJS` `Express`
+
+**Database**  
+`MySQL` `MongoDB`
+
+**Tools & DevOps**  
+`Git` `Docker` `GitHub`
+
+</details>
 
 ---
 
-## 🛠️ TECH STACK
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a1a)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=1a1a1a)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-
----
-## 🚀 FEATURED PROJECTS
-<p align="center">
-  <a href="https://github.com/hieunpc/G-Scores-Analysis">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hieunpc&repo=G-Scores-Analysis&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&description_lines_count=2"/>
-  </a>
-  <a href="https://github.com/hieunpc/Reddit-ETL-Pipeline">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hieunpc&repo=Reddit-ETL-Pipeline&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&description_lines_count=2" />
-  </a>
-
-<a href="https://github.com/hieunpc/url-shortener-platform">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hieunpc&repo=url-shortener-platform&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&description_lines_count=2" />
-  </a>
-</p>
-
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hieunpc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" height="170" alt="Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=hieunpc&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7" height="170" />
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hieunpc&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" height="170" alt="Languages" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION
+## Featured Work
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/hieunpc/hieunpc/output/snake-dark.svg)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**G-Scores Analysis**](https://github.com/hieunpc/G-Scores-Analysis) | Data analysis and visualization system | Python, Data Science |
+| [**Reddit ETL Pipeline**](https://github.com/hieunpc/Reddit-ETL-Pipeline) | ETL pipeline for Reddit data processing | Python, ETL, Data Engineering |
+| [**URL Shortener Platform**](https://github.com/hieunpc/url-shortener-platform) | Scalable URL shortening service | Node.js, Backend |
+
+</div>
+
+---
+
+## Activity Overview
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=hieunpc&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_title=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hieunpc&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e)
 
 </div>
 
@@ -99,6 +82,16 @@ const hieu = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hieunpc&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://github-readme-activity-graph.vercel.app/graph?username=hieunpc&bg_color=00000000&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=hieunpc&icon=0&color=6)](https://visitcount.itsvg.in)
+
+*Building one commit at a time*
 
 </div>
