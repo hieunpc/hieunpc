@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nguyen Trung Hieu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;Data+Engineering+Enthusiast+%F0%9F%9A%80;Backend+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;Data+Engineering+%F0%9F%9A%80;Backend+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -30,12 +30,12 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HCMUT_official_logo.png/240px-HCMUT_official_logo.png" width="55" alt="HCMUT"/>
+      <img src="https://lms.hcmut.edu.vn/pluginfile.php/3/theme_academi/logo/1775124670/logoBK.png" width="55" alt="HCMUT"/>
     </td>
     <td>
       <strong>Ho Chi Minh City University of Technology</strong><br/>
       <sub>HCMUT · VNU-HCM</sub><br/>
-      <sub>🎓 Bachelor of Engineering — Computer Science</sub>
+      <sub>🎓 Bachelor of Science — Computer Science</sub>
     </td>
   </tr>
 </table>
