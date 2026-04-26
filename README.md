@@ -21,7 +21,6 @@
 - 🎯 Currently **focusing** on Data Engineering & Backend Development
 - 🔭 Working on building scalable ETL pipelines and platform services
 - 🌱 Learning cloud infrastructure, distributed systems & software architecture
-- ⚡ Fun fact: I enjoy turning messy data into clean, meaningful insights
 
 ---
 
